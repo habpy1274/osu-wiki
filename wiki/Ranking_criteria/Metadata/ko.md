@@ -41,3 +41,8 @@
 ### 규칙
 
 - **제목이나 가수의 일부를 그룹화하는 데 사용되는 기호 주변에는 공백이 필요합니다. 예를들면 `Song★Title★`은 이렇게 해야 합니다. `Song ★Title★`
+- **다음 유니코드 상징 하위집합은 앞과 뒤에 공백을 가져야 로마자 형식화 할 수 있습니다.
+    - [보조 화살ㅍ - A](https://en.wikipedia.org/wiki/Supplemental_Arrows-A), [보조 화살표 - B](https://en.wikipedia.org/wiki/Supplemental_Arrows-B), [기타 기호 및 화살표](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
+    - [딩뱃(장식 활자)](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
+    - [기타 기호](https://en.wikipeia.org/wiki/Miscellaneous Symbols)
+    
