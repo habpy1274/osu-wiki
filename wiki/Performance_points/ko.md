@@ -30,7 +30,7 @@
 
 *에임* 은 비트맵에서 연속적인 노트를 꾸준히 일관되게 맞추는 것이 얼마나 어려운지 고려하는 핵심값입니다.
 
-[접근 속도(AR)](/wiki/Beatmap/Approach_rate) 및 특정 [모드](/wiki/ko/Gameplay/Game_modifier)([플래시라이트](/wiki/Gameplay/Game_modifier/Flashlight), [히든](/wiki/ko/Gameplay/Game_modifier/Hidden),  [하드 록](/wiki/ko/Gameplay/Game_modifier/Hard_Rock)과 같은)와 같은 요소들은 커서를 빠르고 정확하게 조작하는 것을 훨씬 더 어렵게 만들어, 점수에 부여되는 pp의 양에 영향을 미칩니다.
+[접근 속도(AR)](/wiki/Beatmap/Approach_rate) 및 특정 [모드](/wiki/Gameplay/Game_modifier)([플래시라이트](/wiki/Gameplay/Game_modifier/Flashlight), [히든](/wiki/Gameplay/Game_modifier/Hidden),  [하드 록](/wiki/Gameplay/Game_modifier/Hard_Rock)과 같은)와 같은 요소들은 커서를 빠르고 정확하게 조작하는 것을 훨씬 더 어렵게 만들어, 점수에 부여되는 pp의 양에 영향을 미칩니다.
 
 [osu!](/wiki/Game_mode/osu!)모드의 경우, [점프](/wiki/Beatmap/Pattern/osu!/Jump)가 매우 큰 비트맵은 "높은 정확도"를 요구하는 비트맵으로 간주되어 높은 pp점수를 받는 경우가 있습니다. 마찬가지로, [osu!catch](/wiki/Game_mode/osu!catch) 모드에서 하이퍼 대쉬가 많은 비트맵도 비슷한 방식으로 간주됩니다. [osu!taiko](/wiki/Game_mode/osu!taiko) 모드와 [osu!mania](/wiki/Game_mode/osu!mania) 모드에서는 이 항목이 고려되지 않습니다.
 
@@ -45,7 +45,7 @@
 ### 정확도
 
 ::: alert-note
-**참고:** [정확도](/wiki/ko/Gameplay/Accuracy)
+**참고:** [정확도](/wiki/Gameplay/Accuracy)
 :::
 
 *정확도*는 플레이어가 [히트 오브젝트](/wiki/Gameplay/Hit_object)를 정확한 타이밍에 맞추는 능력을 백분율로 나타낸 수치입니다. pp 알고리즘과 관련된 정확도는 비트맵에서 플레이어의 개별 성능을 평가하는 데 사용되는 핵심값이기도 합니다.
@@ -62,7 +62,7 @@
 
 ### 어디서 퍼포먼스 포인트랭킹을 볼 수 있나요?
 
-**모든 플레이어의 퍼포먼스 포인트는 [순위 페이지]에서 볼 수 있습니다.(https://osu.ppy.sh/p/pp).**
+**모든 플레이어의 퍼포먼스 포인트는 [순위 페이지]에서 볼 수 있습니다(https://osu.ppy.sh/p/pp).**
 
 또한 웹 디자인 상단의 `순위`의 드롭다운 메뉴에서 `전세계`옵션을 클릭하여 볼 수도 있습니다.
 
